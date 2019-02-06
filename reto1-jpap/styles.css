@@ -1,0 +1,28 @@
+.orden{
+  background: yellow;
+  margin: 10px 10px 10px 10px;
+}
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+ span{
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+.none{
+    display: none;
+}
+.show{
+    display: flex;
+}
+.detalle{
+    display: flex;
+    justify-content: space-evenly;
+}
+.block{
+    display: block;
+    
+}
